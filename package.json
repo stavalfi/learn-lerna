@@ -1,0 +1,14 @@
+{
+  "name": "stavalfi1",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^11.10.5",
+    "lerna": "^3.13.1",
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "publish": "lerna publish"
+  }
+}
